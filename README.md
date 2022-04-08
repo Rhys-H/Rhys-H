@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 🚀 I'm a Senior Software Engineer working at <a href="https://www.veygo.com">Veygo</a>
+## 🚀 I'm a Senior Software Engineer working at <a href="https://www.immersivelabs.com/">Immersive Labs</a>
 
 - 💻 **Working on:** Social media sentiment analysis on stock prices
 - 🌱 **Learning:** Golang
